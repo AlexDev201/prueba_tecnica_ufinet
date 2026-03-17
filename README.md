@@ -1,4 +1,4 @@
-Proyecto realizado para la gestión de autos,
+Proyecto realizado para la gestión de autos, listar autos
 cuenta con registro de usuarios, autenticación y 
 la opción de
 crear, editar o eliminar un coche.
