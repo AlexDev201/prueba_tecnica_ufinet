@@ -6,7 +6,6 @@ export function CarPage() {
   const { cars, isLoading, error, handleDelete, handleLogout } = useCar();
   return (
   <div className="min-h-screen bg-neutral-950 px-6 py-10">
- 
     {/* Header */}
     <div className="flex items-center justify-between mb-8">
       <div>
@@ -65,7 +64,7 @@ export function CarPage() {
         <table className="min-w-full">
           <thead>
             <tr className="border-b border-neutral-800 bg-neutral-900">
-              {["ID", "Brand", "Model", "Year", "Plate", "Color", "Actions"].map((h) => (
+              {["ID", "Marca", "Modelo", "Año", "Placa", "Color", "Acciones"].map((h) => (
                 <th
                   key={h}
                   className="px-5 py-3.5 text-left text-[10px] tracking-[0.25em] text-neutral-500 uppercase font-light"
