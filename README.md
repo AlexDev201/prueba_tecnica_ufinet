@@ -1,6 +1,6 @@
-Proyecto realizado para la gestión de autos, listar autos
+Proyecto realizado para la gestión de autos,
 cuenta con registro de usuarios, autenticación y 
-la opción de
+la opción de listar autos,
 crear, editar o eliminar un coche.
 
 Tecnologías usadas:
